@@ -1,4 +1,4 @@
-- Hi, I am Kenan Morani, Alternatively spelled Kinan.
+- Hi, I am Kenan Morani, alternatively spelled Kinan.
 - I am interested in machine learning, Image processing applications and coding in general.
 - I am currently a PhD candidate in the Electrical and Eelctronics Engineering department at Izmir Democracy Unviersity,
 - I look to coolaborate with academicians, programmwers and all others in work related to machine learning and Artificial Intellegence in general.

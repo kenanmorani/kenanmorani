@@ -2,4 +2,4 @@
 - I am interested in Machine Learning, Image Processing applications and coding in general.
 - I am currently a PhD candidate in Electrical and Eelctronics Engineering.
 - I look to coolaborate with academicians, programmwers and all others in work related to statistics, machine learning, Artificial Intellegence and others.
-- You can always reach me on my gmail (kenan.morani@gmail.com) or hotmail (kinan.morani@hotmail.com)
+- You can always reach me on my gmail (kenan.morani@gmail.com) 

@@ -1,4 +1,4 @@
-* Hi, I am Kenan Morani, alternatively spelled Kinan.
+* Hi, I am Kenan Morani, alternatively spelled Kinan, Pronouns he/him.
 * I am interested in Machine Learning, Image Processing and python coding.
 * I look to collaborate with academicians, programmers and all others.
 * You can always reach me on my gmail (kenan.morani@gmail.com)

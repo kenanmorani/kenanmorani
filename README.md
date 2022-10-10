@@ -13,4 +13,4 @@
 # Data Manegment, Developing and Deployment skills:
 MS Excel, MS Word, MS Power Point <br/>
 Python Tensorflow, R, Matlab <br/>
-Docker, Flask, Heroku, ImageJ plugins <br/>
+Docker, Flask, Heroku, java <br/>

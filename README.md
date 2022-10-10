@@ -10,7 +10,7 @@
 * The paper titled "Developement of Prediction in Clients’ Consent to a Bank Term Deposit Using Feature Selection" was published by IEEE publisher [here](https://ieeexplore.ieee.org/document/8751816).
 * The paper titled "Prediction of the Survival of Patients with Cardiac Failure by Using Soft Computing Techniques" was published by IEEE publisher [here](https://cpb-eu-w2.wpmucdn.com/blogs.lincoln.ac.uk/dist/c/6133/files/2022/03/iccv_cov19d_leaderboard.pdf).
 
-# Data Manegment, Development and Deployment skills:
+# Data Manegment, Development and Deployment Skills:
 MS Excel, MS Word, MS Power Point <br/>
 Python Tensorflow, R, Matlab <br/>
 Docker, Flask, Heroku, java <br/>

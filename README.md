@@ -11,6 +11,6 @@
 * The paper titled "Prediction of the Survival of Patients with Cardiac Failure by Using Soft Computing Techniques" was published by IEEE publisher [here](https://cpb-eu-w2.wpmucdn.com/blogs.lincoln.ac.uk/dist/c/6133/files/2022/03/iccv_cov19d_leaderboard.pdf).
 
 # Data Manegment, Developing and Deployment skills:
-MS Excel, MS Word, MS Power Point
-Python Tensorflow, R, Matlab 
-Docker, Flask, Heroku, ImageJ plugins
+MS Excel, MS Word, MS Power Point <br/>
+Python Tensorflow, R, Matlab <br/>
+Docker, Flask, Heroku, ImageJ plugins <br/>

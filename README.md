@@ -11,11 +11,11 @@
 * The paper titled "Prediction of the Survival of Patients with Cardiac Failure by Using Soft Computing Techniques" was published by IEEE publisher [here](https://cpb-eu-w2.wpmucdn.com/blogs.lincoln.ac.uk/dist/c/6133/files/2022/03/iccv_cov19d_leaderboard.pdf).
 
 # Technical Skills
-Machine / Deep Learning
-Signal & Image Processing
-Excel & SQL 
-Python & R  
-Docker &  ImageJ Plugins
-Project Management & Teamwork
-Training & Teaching
+Machine / Deep Learning <br/>
+Signal & Image Processing  <br/>
+Excel & SQL  <br/>
+Python & R   <br/>
+Docker &  ImageJ Plugins   <br/>
+Project Management & Teamwork   <br/>
+Training & Teaching    <br/>
 

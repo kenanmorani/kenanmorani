@@ -1,5 +1,5 @@
 * Hi, I am Kenan Morani, alternatively spelled Kinan
-* I am interested in Statistics, Machine/Deep Learning, Image Processing and python coding
+*  I am interested in Data Science & AI Research and Development Roles
 * I look to collaborate with academicians, programmers and all others
 * You can always reach me on my gmail (kenan.morani@gmail.com)
 

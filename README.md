@@ -16,7 +16,7 @@ Machine / Deep Learning <br/>
 Signal & Image Processing  <br/>
 Excel & SQL  <br/>
 Python & R   <br/>
-Docker &  ImageJ Plugins   <br/>
+Docker &  Streamlit & ImageJ Plugins   <br/>
 Project Management & Teamwork   <br/>
 Training & Teaching    <br/>
 

@@ -2,7 +2,19 @@
 *  I am interested in Data Science & AI Research and Development Roles
 * I look to collaborate with academicians, programmers and all others
 * You can always reach me on my gmail (kenan.morani@gmail.com)
-
+*     <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0000-0002-4383-5732"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0000-0002-4383-5732
+    </a>
 
 # Achievements
 * Finally, web-apps for COVID-19 diagnosis with [our best method](https://github.com/IDU-CVLab/COV19D_3rd) are deployed: <br/> 

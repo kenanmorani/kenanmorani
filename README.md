@@ -2,7 +2,7 @@
 *  I am interested in Data Science & AI Research and Development Roles
 * I look to collaborate with academicians, programmers and all others
 * You can always reach me on my gmail (kenan.morani@gmail.com)
-*    <img
+    <img
         src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
         style="width: 1em; margin-inline-start: 0.5em"
         alt="ORCID iD icon"/>

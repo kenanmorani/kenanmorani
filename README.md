@@ -25,6 +25,7 @@ Signal & Image Processing  <br/>
 Excel & SQL  <br/>
 Python & R   <br/>
 Docker &  Streamlit & ImageJ Plugins   <br/>
+AWS ML Services (SageMaker) <br/>
 Project Management & Teamwork   <br/>
 Training & Teaching    <br/>
 

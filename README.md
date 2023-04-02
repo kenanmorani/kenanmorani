@@ -21,7 +21,7 @@
 
 # Technical Skills
 Statistics & Probability <br/>
-Machine / Deep Learning <br/>
+Machine / Deep Learning & Reinforcement Leanrning<br/>
 Signal & Image Processing  <br/>
 Excel & SQL  <br/>
 Python & R   <br/>

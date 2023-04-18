@@ -1,5 +1,5 @@
 * Hi, I am Kenan Morani, alternatively spelled Kinan
-*  I am interested in Data Science Roles & PostDoc
+*  I am interested in Data Science Roles & PostDocs
 * I look to collaborate with academicians, programmers and all others
 * You can always reach me on my gmail (kenan.morani@gmail.com) <br/> <br/>
     <img

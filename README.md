@@ -29,4 +29,5 @@ Docker &  Streamlit & ImageJ Plugins   <br/>
 AWS ML Services (SageMaker) & Azure ML Studio <br/>
 Project Management & Teamwork   <br/>
 Training & Teaching    <br/>
+GPT-3 
 

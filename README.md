@@ -25,7 +25,7 @@ Machine / Deep Learning <br/>
 Signal & Image Processing  <br/>
 Excel & SQL  <br/>
 Python & R   <br/>
-Docker &  Streamlit & ImageJ Plugins   <br/>
+Docker &  Streamlit & ImageJ Plugins & Qt creator   <br/>
 AWS ML Services (SageMaker) & Azure ML Studio <br/>
 Project Management & Teamwork   <br/>
 Training & Teaching    <br/>

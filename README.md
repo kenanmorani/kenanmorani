@@ -1,7 +1,7 @@
 * Hi, I am Kenan Morani, alternatively spelled Kinan
 *  I am interested in Computer Vision, Data Science and PostDoc roles
 * I look to collaborate with academicians, programmers and all others
-* You can always reach me on my gmail (kenan.morani@gmail.com) <br/> <br/>
+
     <img
         src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
         style="width: 1em; margin-inline-start: 0.5em"

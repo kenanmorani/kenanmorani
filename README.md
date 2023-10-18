@@ -1,12 +1,13 @@
 * Hi, I am Kenan Morani, alternatively spelled Kinan
-*  I am interested in Computer Vision, Data Science and PostDoc roles
+* I am interested in Computer Vision, Data Science and PostDoc roles
 * I look to collaborate with academicians, programmers and all others
 
+    <a href="https://orcid.org/0000-0002-4383-5732">
     <img
         src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
         style="width: 1em; margin-inline-start: 0.5em"
         alt="ORCID iD icon"/>
-      https://orcid.org/0000-0002-4383-5732
+</a>
 
 # Achievements
 * IDU-CVLab came ***fourth*** on the [leaderboard](https://drive.google.com/file/d/1ATt-sqsSSaQczz-Qxj85LohwPD3T0i3W/view) for COVID-19 detection at [IEEE ICASSP 2023: AI-enabled Medical Image Analysis Workshop and Covid-19 Diagnosis Competition (AI-MIA-COV19D)](https://mlearn.lincoln.ac.uk/icassp-2023-ai-mia/).

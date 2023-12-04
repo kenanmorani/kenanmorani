@@ -1,5 +1,5 @@
 * Hi, I am Kenan Morani, alternatively spelled Kinan
-* I am interested in Computer Vision, Data Science and PostDoc roles
+* I am interested in Computer Vision, Data Science and Academic roles
 * I look to collaborate with academicians, programmers and all others
 * You can always reach me at (kenan.morani@gmail.com)
 

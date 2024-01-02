@@ -22,6 +22,8 @@
 * Providing mobile-friendly Transformer-based solution for COVID-19 diagnosis using xxs_mobilevit.
 * Extending COVID-19 solution to Common Pneumonia cases.
 * Providing an accurate solution for COVID-19 detection and ranking ***fourth*** on the [leaderboard](https://drive.google.com/file/d/1ATt-sqsSSaQczz-Qxj85LohwPD3T0i3W/view) [IEEE ICASSP 2023: AI-enabled Medical Image Analysis Workshop and Covid-19 Diagnosis Competition (AI-MIA-COV19D)](https://mlearn.lincoln.ac.uk/icassp-2023-ai-mia/), using a full framework.
+* Planning and deployment of mature algorithms for 119E578 TÜBİTAK 1001Project, using ImageJ plugins and Docker Images, owned by Prof. Devrim Unay; [Peer-reviewed Paper1](https://www.sciencedirect.com/science/article/abs/pii/B9780323961295000135) [Peer-reviewed Paper2](https://ieeexplore.ieee.org/document/9960161/authors#authors)
+Deployment and Integration of Gaze Estimation algorithm (FSA-Net) for 5210035 TUBITAK-1505 project, using QT Creator, owned by Ass. Prof. Övgü Ozturk
 * Finally, web-apps using streamlit for COVID-19 diagnosis with [an accurate methodology](https://github.com/IDU-CVLab/COV19D_3rd) are deployed: <br/> 
 &nbsp; - Using a single 2D grayscale medical slice [here](https://kenanmorani-covid-19deployment-pipeline-app-82q4v6.streamlit.app/)   
 &nbsp; - Using a full CT scan [here](https://kenanmorani-covid-19deployment-patient-level-predictions-d37izn.streamlit.app/)

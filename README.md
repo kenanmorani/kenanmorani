@@ -19,8 +19,8 @@
     </a>  
 
 # Achievements
-* Providing mobile-friendly Transformer-based solution for COVID-19 diagnosis using xxs_mobilevit.
-* Extending COVID-19 solution to Common Pneumonia cases.
+* Providing mobile-friendly Transformer-based solution for COVID-19 diagnosis using xxs_mobilevit; [link](https://github.com/IDU-CVLab/COV19D_4th)
+* Extending COVID-19 solution to Common Pneumonia cases; [link](https://github.com/IDU-CVLab/Pneumonia-Detection)
 * Finally, web-apps using streamlit for COVID-19 diagnosis with an accurate methodology are deployed: <br/> 
 &nbsp; - Using a single 2D grayscale medical slice [here](https://kenanmorani-covid-19deployment-pipeline-app-82q4v6.streamlit.app/)   
 &nbsp; - Using a full CT scan [here](https://kenanmorani-covid-19deployment-patient-level-predictions-d37izn.streamlit.app/)

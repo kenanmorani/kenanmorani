@@ -29,5 +29,5 @@
 * Deployment and Integration of Gaze Estimation algorithm [FSA-Net](https://github.com/kenanmorani/FSA-Net) for 5210035 TUBITAK-1505 project, using QT Creator, owned by Prof. Övgü Ozturk
 * Providing a lightweight and easy-to-follow Transfer Learning-based solution for COVID-19 detection through MIA-COVID-19 ECCV 2022 workshop, and being listed again on the leaderboard; [link](https://github.com/IDU-CVLab/COV19D_2nd)
 * Providing a lightweight solution for COVID-19 diagnosis using image processing techniques and CNN modelling through MIA-COVID-19 ICCV 2021 workshop, and being listed on the leaderboard; [link](https://github.com/IDU-CVLab/COV19D)
-* Testing recent feature selection techniques to build a model to predict bank customer' willness to take a bank loan; [link](https://github.com/kenanmorani/Machine_Learning_idu)
+* Testing recent feature selection techniques to build a model to predict bank customer' willingness to take a bank loan; [link](https://github.com/kenanmorani/Machine_Learning_idu)
 * Comparing the main machine learning models (ANN, SVM, RF) for predicting survival of patients with cardiac failure in a case study; [link](https://github.com/kenanmorani/Machine_Learning_idu)

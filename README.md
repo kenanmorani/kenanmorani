@@ -2,7 +2,7 @@
 * I am interested in Computer Vision, Data Science and academic roles
 * I look to collaborate with academicians, programmers and all others
 * You can always reach me at (kenan.morani@gmail.com)
-* Kindly check my organization for more comprehensive details of my work  
+* Kindly check my organization for more details of my work  
 
 <a
     id="cy-effective-orcid-url"

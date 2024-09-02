@@ -1,22 +1,8 @@
 * Hi, I am Kenan Morani, alternatively spelled Kinan
 * I look to collaborate with academicians, programmers and all others
 * You can always reach me at (kenan.morani@gmail.com)
-* Kindly check my organization for more details of my work  
-
-<a
-    id="cy-effective-orcid-url"
-    class="underline"
-     href="https://orcid.org/0000-0002-4383-5732"
-     target="orcid.widget"
-     rel="me noopener noreferrer"
-     style="vertical-align: top">
-     <img
-        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-        style="width: 1em; margin-inline-start: 0.5em"
-        alt="ORCID iD icon"/>
-      https://orcid.org/0000-0002-4383-5732
-    </a>  
-
+* Kindly check my organization for more details of my work
+  
 # Achievements
 * Providing mobile-friendly Transformer-based solution for COVID-19 diagnosis using xxs_mobilevit; [link](https://github.com/IDU-CVLab/COV19D_4th)
 * Extending COVID-19 solution to Common Pneumonia cases; [link](https://github.com/IDU-CVLab/Pneumonia-Detection)

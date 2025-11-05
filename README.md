@@ -3,7 +3,7 @@
 * You can always reach me at (kenan.morani@gmail.com)
 * Kindly check my organization for more details of my work
   
-# Achievements
+# Outputs
 * Providing mobile-friendly Transformer-based solution for COVID-19 diagnosis using xxs_mobilevit; [link](https://github.com/IDU-CVLab/COV19D_4th)
 * Extending COVID-19 solution to Common Pneumonia cases; [link](https://github.com/IDU-CVLab/Pneumonia-Detection)
 * Finally, web-apps using streamlit for COVID-19 diagnosis with an accurate methodology are deployed: <br/> 
